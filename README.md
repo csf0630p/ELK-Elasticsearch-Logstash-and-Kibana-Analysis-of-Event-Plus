@@ -11,7 +11,7 @@
 
 **Why use ELK?**
 
-Now that we have the [**Event+ project**](https://www.patreon.com/posts/event-java-web-17280221) deployed to tomcat server on AWS EC2, we would like to know more about our users&#39; behaviours.
+Now that we have the Event+ project deployed to tomcat server on AWS EC2, we would like to know more about our users&#39; behaviours.
 
 Since tomcat will generate logs for all of the http request sent to the web server,  and we can use Logstash to fetch and parse the tomcat logs and store the fields such as request status, response latency to the ElasticSearch for later use, for example we can utilize Kibana to visualize the requests either simply counting or creating more complex graph for data analytics.
 
