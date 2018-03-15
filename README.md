@@ -1,6 +1,5 @@
 **ELK (Elasticsearch, Logstash, and Kibana): Analysis of User Behavior for Event+**
 
-Mar 4 at 8:06pm
 
  **ELK (ElasticSearch, Logstash and Kibana)**
 
